@@ -97,7 +97,9 @@ const ContentArea = ({ activeSection }: ContentAreaProps) => {
             "Como ha sido tradición de nuestro colegio, el principio que nos guía es la formación integral de los estudiantes, por tal motivo contamos con un servicio de Psicólogo y una Psicopedagoga que ofrece atención personalizada para dificultades de aprendizaje,  adaptación de grupos, técnicas de estudio y orientación vocacional.",
             "Queremos expresar nuestro más sincero agradecimiento al U.E.P Colegio Brito por su ayuda y donación de los equipos de informática. Gracias por ser el único lugar en recibirnos con todo el apoyo, después de algunas lastimas e inconvenientes, aún así quisieron ayudarnos y con la donación pudimos continuar avanzando en nuestro proyecto, algo que antes resultaba difícil por la falta de recursos. Muchas gracias y agradecemos por a vernos escogidos como nuestra primera comunidad.",
 
-],},
+  ],
+
+};
 
       case "mantenimiento":
         return {
