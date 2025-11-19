@@ -157,9 +157,23 @@ const ContentArea = ({ activeSection }: ContentAreaProps) => {
         return {
           title: "HERRAMIENTAS NECESARIAS",
           content: [
-            "Para realizar un mantenimiento adecuado de equipos computacionales, es fundamental contar con las herramientas apropiadas. Estas herramientas facilitan el trabajo y ayudan a prevenir daños durante los procedimientos.",
-            "Herramientas básicas indispensables: Destornilladores de precisión (Phillips y planos), pinzas antiestáticas, pulsera antiestática, kit de limpieza (aire comprimido, paños de microfibra, alcohol isopropílico), multímetro digital, pasta térmica, linternas LED, organizadores de tornillos.",
-            "Herramientas avanzadas recomendadas: Probadores de fuentes de poder, lectores de diagnóstico POST, software de diagnóstico (CPU-Z, HWMonitor, CrystalDiskInfo), cables de prueba, aspiradora especializada para electrónicos.",
+            "Para llevar a cabo las tareas antes mencionadas en el punto anterior, las herramientas requeridas serán:",
+
+"1. Set de destornilladores de precisión",
+
+"2. Juego de brochas de tamaños distintos",
+
+"3. Alcohol isopropílico/Limpiador de",
+
+"4. contactos electrónicos",
+
+“5. Paño suave“,
+
+"6. Mascarilla",
+
+"7. Pulsera anti-estática",
+
+"8. Guantes",
           ],
         };
 
