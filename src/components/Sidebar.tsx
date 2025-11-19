@@ -25,6 +25,7 @@ const menuItems: MenuItem[] = [
       { id: "mantenimiento-correctivo", title: "Mantenimiento correctivo" },
       { id: "herramientas", title: "Herramientas necesarias" },
       { id: "seguridad", title: "Medidas de seguridad" },
+      { id: "pasos", title: "Pasos Para El Mantenimiento" },
     ],
   },
   {
