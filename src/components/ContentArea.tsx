@@ -163,9 +163,7 @@ const ContentArea = ({ activeSection }: ContentAreaProps) => {
 
 "2. Juego de brochas de tamaños distintos",
 
-"3. Alcohol isopropílico/Limpiador de",
-
-"4. contactos electrónicos",
+"3. Alcohol isopropílico/Limpiador de contactos electrónicos",
 
 “5. Paño suave“,
 
