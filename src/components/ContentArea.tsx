@@ -37,7 +37,7 @@ const sectionImages: Record<string, string> = {
   herramientas: herramientas,
   seguridad: seguridad,
   equipos: equipos,
-  componentes: componentes,
+  componentes: componentes, componentes2,
   "equipos-institucion": equipoInstitucion1,
   "equipo-desarrollo": equipoDesarrollo,
 };
