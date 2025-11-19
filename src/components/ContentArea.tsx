@@ -237,7 +237,7 @@ content: [
           content: [
             "GABINETE (CASE)",
 ‎
-‎"¿QUÉ ES?:Es una carcasa que contiene y protege físicamente los componentes internos de una computadora. Proporciona estructura y soporte, además de permitir la ventilación adecuada para el equipo.",
+"¿QUÉ ES?:Es una carcasa que contiene y protege físicamente los componentes internos de una computadora. Proporciona estructura y soporte, además de permitir la ventilación adecuada para el equipo.",
 
 "‎MODO DE LIMPIEZA: Apagar y desconectar el equipo. Abrir la carcasa con cuidado. Usar aire comprimido para eliminar polvo en zonas internas, ventiladores y componentes. Limpieza con paño de micro-fibra para superficies sin contacto eléctrico. Evitar tocar circuitos directamente.",
 
@@ -263,7 +263,7 @@ content: [
 ‎"MODO DE LIMPIEZA: Retirar la tarjeta con cuidado. Usar aire comprimido para polvo. Limpiar contactos con goma de borrar. Cepillar suavemente zonas con suciedad. Volver a instalar con firmeza.",
 
 ‎
- "MEMORIA RAM",
+"MEMORIA RAM",
 
 ‎"¿QUÉ ES?: Módulos de memoria temporal que almacenan datos de trabajo para acceso rápido por la CPU.",
 ‎
