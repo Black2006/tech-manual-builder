@@ -46,7 +46,7 @@ const sectionImages: Record<string, string> = {
 // Special sections with multiple images
 const institutionImages = [universidadJardin, universidadEntrada];
 const equiposInstitucionImages = [equipoInstitucion1, equipoInstitucion2];
-const componenteImagenes = [componentes3, componentes2];
+//const componenteImagenes = [componentes3, componentes2];
 const ContentArea = ({ activeSection }: ContentAreaProps) => {
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [selectedImage, setSelectedImage] = useState("");
