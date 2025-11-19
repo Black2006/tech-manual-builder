@@ -45,7 +45,7 @@ const sectionImages: Record<string, string> = {
 // Special sections with multiple images
 const institutionImages = [universidadJardin, universidadEntrada];
 const equiposInstitucionImages = [equipoInstitucion1, equipoInstitucion4, equipoInstitucion3, equipoInstitucion7];
-const componentesImages = [componentes2];
+
 const ContentArea = ({ activeSection }: ContentAreaProps) => {
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [selectedImage, setSelectedImage] = useState("");
@@ -159,19 +159,13 @@ const ContentArea = ({ activeSection }: ContentAreaProps) => {
           content: [
             "Para llevar a cabo las tareas antes mencionadas en el punto anterior, las herramientas requeridas serán:",
 
-"* Set de destornilladores de precisión",
-
-"* Juego de brochas de tamaños distintos",
-
-"* Alcohol isopropílico/Limpiador de contactos electrónicos",
-
-"* Paño suave“,
-
-"* Mascarilla",
-
-"* Pulsera anti-estática",
-
-"* Guantes",
+              "* Set de destornilladores de precisión",
+              "* Juego de brochas de tamaños distintos",
+              "* Alcohol isopropílico/Limpiador de contactos electrónicos",
+              "* Paño suave“,
+              "* Mascarilla",
+              "* Pulsera anti-estática",
+              "* Guantes",
           ],
         };
 
