@@ -8,7 +8,7 @@ import mantenimientoCorrectivo from "@/assets/mantenimiento-correctivo.jpg";
 import herramientas from "@/assets/herramientas.jpg";
 import seguridad from "@/assets/seguridad.jpg";
 import equipos from "@/assets/equipos.jpg";
-import componentes from "@/assets/componentes.jpg";
+import componentes from "@/assets/componentes-1.jpg";
 import equipoInstitucion1 from "@/assets/equipo-institucion-1.jpg";
 import equipoInstitucion2 from "@/assets/equipo-institucion-2.jpg";
 import equipoInstitucion3 from "@/assets/equipo-institucion-3.jpg";
