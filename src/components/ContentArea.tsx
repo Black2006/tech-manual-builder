@@ -12,10 +12,10 @@ import componentes from "@/assets/componentes.jpg";
 import equipoInstitucion1 from "@/assets/equipo-institucion-1.jpg";
 import equipoInstitucion2 from "@/assets/equipo-institucion-2.jpg";
 import equipoInstitucion3 from "@/assets/equipo-institucion-3.jpg";
-import equipoInstitucion3 from "@/assets/equipo-institucion-4.jpg";
-import equipoInstitucion3 from "@/assets/equipo-institucion-5.jpg";
-import equipoInstitucion3 from "@/assets/equipo-institucion-6.jpg";
-import equipoInstitucion3 from "@/assets/equipo-institucion-7.jpg";
+import equipoInstitucion4 from "@/assets/equipo-institucion-4.jpg";
+import equipoInstitucion5 from "@/assets/equipo-institucion-5.jpg";
+import equipoInstitucion6 from "@/assets/equipo-institucion-6.jpg";
+import equipoInstitucion7 from "@/assets/equipo-institucion-7.jpg";
 
 import equipoDesarrollo from "@/assets/equipo-desarrollo.jpg";
 import { ImageModal } from "./ImageModal";
