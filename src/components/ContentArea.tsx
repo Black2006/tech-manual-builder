@@ -181,7 +181,7 @@ const ContentArea = ({ activeSection }: ContentAreaProps) => {
 
 case "pasos":
      return{ title: "PASOS PARA EL MANTENIMIENTO",
-content [
+content: [
 
 "Test",
 
