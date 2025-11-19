@@ -236,7 +236,6 @@ content: [
           title: "COMPONENTES",
           content: [
             "GABINETE (CASE)",
-‎
 "¿QUÉ ES?:Es una carcasa que contiene y protege físicamente los componentes internos de una computadora. Proporciona estructura y soporte, además de permitir la ventilación adecuada para el equipo.",
 
 "‎MODO DE LIMPIEZA: Apagar y desconectar el equipo. Abrir la carcasa con cuidado. Usar aire comprimido para eliminar polvo en zonas internas, ventiladores y componentes. Limpieza con paño de micro-fibra para superficies sin contacto eléctrico. Evitar tocar circuitos directamente.",
