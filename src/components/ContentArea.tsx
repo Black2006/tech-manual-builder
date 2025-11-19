@@ -43,7 +43,7 @@ const sectionImages: Record<string, string> = {
 
 // Special sections with multiple images
 const institutionImages = [universidadJardin, universidadEntrada];
-const equiposInstitucionImages = [equipoInstitucion1, equipoInstitucion2, equipoInstitucion3];
+const equiposInstitucionImages = [equipoInstitucion1, equipoInstitucion4, equipoInstitucion3, equipoInstitucion7];
 
 
 const ContentArea = ({ activeSection }: ContentAreaProps) => {
