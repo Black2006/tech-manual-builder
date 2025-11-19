@@ -1,8 +1,34 @@
-import { ImageIcon } from "lucide-react";
+import labIntroduccion from "@/assets/lab-introduccion.jpg";
+import universidadEdificio from "@/assets/universidad-edificio.jpg";
+import mantenimientoGeneral from "@/assets/mantenimiento-general.jpg";
+import mantenimientoPreventivo from "@/assets/mantenimiento-preventivo.jpg";
+import mantenimientoCorrectivo from "@/assets/mantenimiento-correctivo.jpg";
+import herramientas from "@/assets/herramientas.jpg";
+import seguridad from "@/assets/seguridad.jpg";
+import equipos from "@/assets/equipos.jpg";
+import componentes from "@/assets/componentes.jpg";
+import equiposInstitucion from "@/assets/equipos-institucion.jpg";
+import equipoDesarrollo from "@/assets/equipo-desarrollo.jpg";
 
 interface ContentAreaProps {
   activeSection: string;
 }
+
+// Mapping of sections to their corresponding images
+const sectionImages: Record<string, string> = {
+  introduccion: labIntroduccion,
+  institucion: universidadEdificio,
+  mantenimiento: mantenimientoGeneral,
+  "mantenimiento-general": mantenimientoGeneral,
+  "mantenimiento-preventivo": mantenimientoPreventivo,
+  "mantenimiento-correctivo": mantenimientoCorrectivo,
+  herramientas: herramientas,
+  seguridad: seguridad,
+  equipos: equipos,
+  componentes: componentes,
+  "equipos-institucion": equiposInstitucion,
+  "equipo-desarrollo": equipoDesarrollo,
+};
 
 const ContentArea = ({ activeSection }: ContentAreaProps) => {
   const getContent = () => {
@@ -191,11 +217,13 @@ const ContentArea = ({ activeSection }: ContentAreaProps) => {
 
         {/* Content Area */}
         <div className="space-y-6">
-          {/* Image Placeholder - Left side */}
+          {/* Image - Left side */}
           <div className="flex items-start gap-6 mb-6">
-            <div className="flex-shrink-0 w-48 h-48 bg-muted rounded-lg flex items-center justify-center border border-border">
-              <ImageIcon className="w-16 h-16 text-muted-foreground" />
-            </div>
+            <img 
+              src={sectionImages[activeSection]} 
+              alt={content.title}
+              className="flex-shrink-0 w-48 h-48 object-cover rounded-lg border border-border shadow-sm"
+            />
             
             {/* First paragraph alongside image */}
             <div className="flex-1">
