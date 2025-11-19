@@ -14,7 +14,7 @@ const menuItems: MenuItem[] = [
   },
   {
     id: "institucion",
-    title: "Institución (comunidad)",
+    title: "U.P.T.A. 'Federico Brito Figueroa'",
   },
   {
     id: "mantenimiento",
