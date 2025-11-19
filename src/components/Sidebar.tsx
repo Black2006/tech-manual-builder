@@ -15,6 +15,8 @@ const menuItems: MenuItem[] = [
   {
     id: "institucion",
     title: "U.P.T.A. 'Federico Brito Figueroa'",
+
+children: [id: { "agradecimiento", title: "U.E.P. COLEGIO BRITO",} ]
   },
   {
     id: "mantenimiento",
