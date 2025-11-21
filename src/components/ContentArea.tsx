@@ -29,7 +29,7 @@ import fuentePoder from "@/assets/componentes/fuente-poder.jpg";
 import tarjetaExpansion from "@/assets/componentes/tarjeta-expansion.jpg";
 import memoriaRam from "@/assets/componentes/memoria-ram.jpg";
 import procesador from "@/assets/componentes/procesador.jpg";
-import discoDuro from "@/assets/componentes/disco-duro.jpg";
+import discoDuro from "@/assets/componentes/disco-duro1.jpg";
 import puertosRanuras from "@/assets/componentes/puertos-ranuras.jpg";
 import componentesElectricos from "@/assets/componentes/componentes-electricos.jpg";
 import unidadCdDvd from "@/assets/componentes/unidad-cd-dvd.jpg";
