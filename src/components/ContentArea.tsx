@@ -351,6 +351,12 @@ content: [
         imagen: "ensamble-case",
         definicion: "¿QUÉ ES?: Conjunto físico de piezas internas y externas del gabinete.",
         limpieza: "MODO DE LIMPIEZA: Aire comprimido interno y paño húmedo externo. Revisión y ajuste de tornillos."
+      },
+      {
+        nombre: "MONITOR",
+        imagen: "monitor",
+        definicion: "¿Que es?Dispositivo de salida que muestra información visual generada por una computadora u otros dispositivos electrónicos.",
+        limpieza: "Modo de limpieza: limpiar con paño suave con limpiador especial o alcohol isopropílico diluido, sin humedecer directamente la pantalla. Limpiar marco con paño seco."
       }
     ],
   };
