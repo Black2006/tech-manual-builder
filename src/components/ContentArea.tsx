@@ -18,6 +18,7 @@ import equipoInstitucion4 from "@/assets/equipo-institucion-4.jpg";
 import equipoInstitucion5 from "@/assets/equipo-institucion-5.jpg";
 import equipoInstitucion6 from "@/assets/equipo-institucion-6.jpg";
 import equipoInstitucion7 from "@/assets/equipo-institucion-7.jpg";
+import agradecimiento from "@/assets/logo-brito.jpg";
 import header from "@/assets/logo.jpg";
 
 import equipoDesarrollo from "@/assets/equipo-desarrollo.jpg";
@@ -58,6 +59,7 @@ const sectionImages: Record<string, string> = {
   componentes: componentes,
   "equipos-institucion": equipoInstitucion1,
   "equipo-desarrollo": equipoDesarrollo,
+  agradecimiento: agradecimiento,
 };
 
 // Special sections with multiple images
